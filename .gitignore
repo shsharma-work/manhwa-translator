@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Firebase debug logs
+firebase-debug.log
+firebase-debug.*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db 
